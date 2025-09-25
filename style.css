@@ -1,0 +1,26 @@
+.hero{
+    background: url("https://images.unsplash.com/photo-1593487568720-92097fb460fb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBhcmZ1bWV8ZW58MHx8MHx8fDA%3D") center/cover no-repeat;
+    height: 100vh;
+}
+
+.hero-about{
+    background: url("https://images.unsplash.com/photo-1622618991746-fe6004db3a47?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHBhcmZ1bWV8ZW58MHx8MHx8fDA%3D") center/cover no-repeat;
+    height: 80vh;
+}
+
+.img-projet img{
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.card-text
+{
+    height: 100px;
+    overflow: hidden;
+}
+
+.img-projet span{
+    z-index: 10;
+}
